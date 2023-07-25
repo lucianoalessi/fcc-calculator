@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fcc-calculator/static/css/main.2cc3e5ae.css",
+    "main.js": "/fcc-calculator/static/js/main.a1a63f7b.js",
+    "index.html": "/fcc-calculator/index.html",
+    "main.2cc3e5ae.css.map": "/fcc-calculator/static/css/main.2cc3e5ae.css.map",
+    "main.a1a63f7b.js.map": "/fcc-calculator/static/js/main.a1a63f7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cc3e5ae.css",
+    "static/js/main.a1a63f7b.js"
+  ]
+}
